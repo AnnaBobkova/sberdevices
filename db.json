@@ -3,27 +3,27 @@
 		{
 			"instock": true,
 			"price": 300,
-			"name": "service_flat"
+			"name": "уборка квартир"
 		},
 		{
 			"instock": true,
 			"price": 400,
-			"name": "service_office"
+			"name": "уборка офисов"
 		},
 		{
 			"instock": true,
 			"price": 400,
-			"name": "service_house"
+			"name": "уборка домов"
 		},
 		{
 			"instock": true,
 			"price": 550,
-			"name": "service_him_furniture"
+			"name": "химчистка мебели"
 		},
 		{
 			"instock": true,
 			"price": 750,
-			"name": "service_him_carpets"
+			"name": "химчистка ковров"
 		},
 		{
 			"instock": "",
@@ -33,7 +33,7 @@
 		{
 			"instock": true,
 			"price": 150,
-			"name": "disinfection"
+			"name": "дезинфекция"
 		}
 	]
 }
