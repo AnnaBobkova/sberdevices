@@ -1,1 +1,1 @@
-[{"instock":true,"price":300,"name":"service_flat"},{"instock":true,"price":400,"name":"service_office"},{"instock":true,"price":400,"name":"service_house"},{"instock":true,"price":550,"name":"service_him_furniture"},{"instock":true,"price":750,"name":"service_him_carpets"},{"instock":"","price":200,"name":"window_cleaning"},{"instock":true,"price":150,"name":"disinfection"}]
+[{"instock":true,"price":300,"name":"service_flat"},{"instock":true,"price":400,"name":"service_office"}]
